@@ -1,7 +1,6 @@
 
 ### RAC是一个非常强大的框架我们将会从以下方面去介绍它
 
-[推荐在学习前先看下这个项目,比较简单也很好理解](https://github.com/SkyHarute/Functional-Programming)
 
 * RACSignal
 * RACSubject
