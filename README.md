@@ -1,12 +1,3 @@
-## StudyForRAC
-
-[简书博客地址](http://www.jianshu.com/users/452e0bd1e30f/latest_articles)
-
-study for https://github.com/shuaiwang007/RAC
-
-If you have some questions, please tell me.
-
-My email address is fanyang_32012@outlook.com.
 
 ### RAC是一个非常强大的框架我们将会从以下方面去介绍它
 
